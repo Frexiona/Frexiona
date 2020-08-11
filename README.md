@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
+## Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
 
 <a href="https://www.linkedin.com/in/haolin-zhang/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +14,7 @@
 
 👨🏻‍🎓 Computer Sience MS of [University College Dublin](www.ucd.ie)
 
-### About Me 👽
+## About Me 👽
 
 - 🏋🏻  JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
 
@@ -22,7 +22,7 @@
 
 - 🔴 🔵  FORÇA BARÇA!
 
-### 🏆 Github Status
+## 🏆 Github Status
 ![Haolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=Frexiona&show_icons=true&hide_border=true)
 
 
