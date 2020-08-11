@@ -11,6 +11,8 @@
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
+
 ### About Me 👽
 
 - 🏋🏻 JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
@@ -20,7 +22,6 @@
 - 🔴 🔵 FORÇA BARÇA!
 
 ### 🏆 Github Status
-
 ![Haolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=Frexiona&show_icons=true&hide_border=true)
 
 
