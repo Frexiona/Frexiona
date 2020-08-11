@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
 
-🧑🏻‍💻 Full-Stack Developer / Data Analyst Intern in [IBM Ireland](www.ibm.com/ie-en)
-
-👨🏻‍🎓 Computer Sience MS of [University College Dublin](www.ucd.ie)
-
 <a href="https://www.linkedin.com/in/haolin-zhang/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,6 +8,10 @@
 </a>
 
 <br />
+
+🧑🏻‍💻 Full-Stack Developer / Data Analyst Intern in [IBM Ireland](www.ibm.com/ie-en)
+
+👨🏻‍🎓 Computer Sience MS of [University College Dublin](www.ucd.ie)
 
 ### About Me 👽
 
