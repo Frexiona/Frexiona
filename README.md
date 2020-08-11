@@ -8,10 +8,6 @@
 </a>
 
 <br />
-
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-
-<br />
 <br />
 
 🧑🏻‍💻 Full-Stack Developer / Data Analyst Intern in [IBM Ireland](www.ibm.com/ie-en)
@@ -29,6 +25,8 @@
 ### 🏆 Github Status
 ![Haolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=Frexiona&show_icons=true&hide_border=true)
 
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
 <!--
