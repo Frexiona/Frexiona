@@ -12,7 +12,7 @@
 
 🧑🏻‍💻 Full-Stack Developer / Data Analyst in [IBM Ireland](www.ibm.com/ie-en)
 
-👨🏻‍🎓 Computer Sience MS of [University College Dublin](www.ucd.ie)
+👨🏻‍🎓 Computer Sience Ms of [University College Dublin](www.ucd.ie)
 
 ## About Me 👽
 
