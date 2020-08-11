@@ -8,6 +8,7 @@
 </a>
 
 <br />
+<br />
 
 🧑🏻‍💻 Full-Stack Developer / Data Analyst Intern in [IBM Ireland](www.ibm.com/ie-en)
 
