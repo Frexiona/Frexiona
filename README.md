@@ -7,6 +7,8 @@
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 <br />
 <br />
 
@@ -16,11 +18,11 @@
 
 ### About Me 👽
 
-- 🏋🏻 JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
+- 🏋🏻  JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
 
-- 🕺🏻 Lead Singer of [Next Door Band](www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ) since 2014
+- 🕺🏻  Lead Singer of [Next Door Band](www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ) since 2014
 
-- 🔴 🔵 FORÇA BARÇA!
+- 🔴 🔵  FORÇA BARÇA!
 
 ### 🏆 Github Status
 ![Haolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=Frexiona&show_icons=true&hide_border=true)
