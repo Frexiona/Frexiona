@@ -10,15 +10,15 @@
 <br />
 <br />
 
-🧑🏻‍💻 Full-Stack Developer / Data Analyst in [IBM Ireland](www.ibm.com/ie-en)
+🧑🏻‍💻 Full-Stack Developer / Data Analyst in <a href="www.ibm.com/ie-en"> <b>IBM Ireland</b>, Kattankulatur</a>. <br>
 
-👨🏻‍🎓 Computer Sience Ms from [University College Dublin](www.ucd.ie)
+👨🏻‍🎓 Computer Sience Ms from <a href="www.ucd.ie"> <b>University College Dublin</b>, Kattankulatur</a>. <br>
 
 ## About Me 👽
 
 - 🏋🏻  JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
 
-- 🕺🏻  Lead Singer of [Next Door Band](www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ) since 2014
+- 🕺🏻  Lead Singer of <a href="www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ"> <b>Next Door Band</b>, Kattankulatur</a> since 2014
 
 - 🔴 🔵  FORÇA BARÇA!
 
