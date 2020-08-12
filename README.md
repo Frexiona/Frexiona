@@ -1,24 +1,24 @@
 ## Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
 
 <a href="https://www.ibm.com/ie-en">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Haolin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/rexerrrrrr">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Haolin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 <br />
 
-🧑🏻‍💻 Full-Stack Developer / Data Analyst in <a href="www.ibm.com/ie-en"> <b>IBM Ireland</b></a>. <br>
+🧑🏻‍💻 Full-Stack Developer / Data Analyst in <a href="https://www.ibm.com/ie-en"> <b>IBM Ireland</b></a>. <br>
 
-👨🏻‍🎓 Computer Sience Ms from <a href="www.ucd.ie"> <b>University College Dublin</b></a>. <br>
+👨🏻‍🎓 Computer Sience Ms from <a href="https://www.ucd.ie"> <b>University College Dublin</b></a>. <br>
 
 ## About Me 👽
 
 - 🏋🏻  JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
 
-- 🕺🏻  Lead Singer of <a href="www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ"> <b>Next Door Band</b></a> since 2014
+- 🕺🏻  Lead Singer of <a href="https://www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ"> <b>Next Door Band</b></a> since 2014
 
 - 🔴 🔵  FORÇA BARÇA!
 
