@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
 
-<a href="https://www.ibm.com/ie-en">
+<a href="https://www.linkedin.com/in/haolin-zhang/">
   <img align="left" alt="Haolin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/rexerrrrrr">
@@ -12,7 +12,7 @@
 
 🧑🏻‍💻 Full-Stack Developer / Data Analyst in <a href="https://www.ibm.com/ie-en"> <b>IBM Ireland</b></a>. <br>
 
-👨🏻‍🎓 Computer Sience Ms from <a href="https://www.ucd.ie"> <b>University College Dublin</b></a>. <br>
+👨🏻‍🎓 Computer Sience Ms from <a href="https://www.ucd.ie/cs/"> <b>University College Dublin</b></a>. <br>
 
 ## About Me 👽
 
