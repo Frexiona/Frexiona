@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Haolin Zhang](rexxer.cn/about/) 🇨🇳 🇮🇪
+## Hi there 👋, I'm **Haolin Zhang** 🇨🇳 🇮🇪
 
 <a href="https://www.linkedin.com/in/haolin-zhang/">
   <img align="left" alt="Haolin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,13 +10,13 @@
 <br />
 <br />
 
-🧑🏻‍💻 Full-Stack Developer / Data Analyst in <a href="https://www.ibm.com/ie-en"> <b>IBM Ireland</b></a>. <br>
+🧑🏻‍💻 Site Reliability Engineer in <a href="https://www.ibm.com/ie-en"> <b>IBM Ireland</b></a>. <br>
 
 👨🏻‍🎓 Computer Sience Ms from <a href="https://www.ucd.ie/cs/"> <b>University College Dublin</b></a>. <br>
 
 ## About Me 👽
 
-- 🏋🏻  JavaScript Full-Stack Development | Distributed System | Machine Learning | Smart Contract
+- 🏋🏻  JavaScript Full-Stack Development | Python / Java Depvelopment | Container Security | Data Science Enthusiasm
 
 - 🕺🏻  Lead Singer of <a href="https://www.youtube.com/channel/UCFRNyVuOUZa7pYdfAlOTwNQ"> <b>Next Door Band</b></a> since 2014
 
@@ -26,7 +26,7 @@
 ![Haolin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=Frexiona&show_icons=true&hide_border=true)
 
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="left"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
 <!--
